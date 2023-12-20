@@ -1,0 +1,86 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="3.10" />
+            <item index="1" class="java.lang.String" itemvalue="3.11" />
+            <item index="2" class="java.lang.String" itemvalue="3.12" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object.info" />
+          <option value="object.apl_encoding_file" />
+          <option value="object.apl_host" />
+          <option value="object.apl_user" />
+          <option value="object.apl_password" />
+          <option value="object.apl_system_proxy" />
+          <option value="object.debug" />
+          <option value="object.sys_version" />
+          <option value="object.sys_modified_by" />
+          <option value="object.sys_description" />
+          <option value="object.sys_modified_date" />
+          <option value="object.sys_created_by" />
+          <option value="object.sys_created_date" />
+          <option value="object.sys_name" />
+          <option value="object.error" />
+          <option value="object.warning" />
+          <option value="object.apl_customer_proxy" />
+          <option value="object.apl_procergs_proxy" />
+          <option value="object.apl_auto_ident_componente_automacao" />
+          <option value="object.apl_auto_cod_acao" />
+          <option value="object.sys_csv_separator" />
+          <option value="object.sys_csv_delimiter" />
+          <option value="object.sys_cache" />
+          <option value="urllib3.exceptions" />
+          <option value="object.sections" />
+          <option value="object.options" />
+          <option value="object.apl_token" />
+          <option value="object.sys_out_level" />
+          <option value="object.sys_log_level" />
+          <option value="object.sys_out" />
+          <option value="object.sys_log_size" />
+          <option value="object.sys_log_files" />
+          <option value="object.sys_log_encoding_file" />
+          <option value="object.sys_error_limit" />
+          <option value="object.sys_ignore_errors" />
+          <option value="object.apl_system_group" />
+          <option value="object.sys_disable_ssl_verify" />
+          <option value="object.sys_disable_ssl_warnings" />
+          <option value="requests.packages" />
+          <option value="requests.utils" />
+          <option value="object.apl_usd_host" />
+          <option value="object.apl_usd_user" />
+          <option value="object.apl_usd_password" />
+          <option value="object.apl_fds_host" />
+          <option value="object.apl_fds_headers" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
